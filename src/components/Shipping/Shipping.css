@@ -1,0 +1,25 @@
+form{
+    margin-top: 10%;
+    justify-content: center;
+    
+}
+input{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    min-width: 300px;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.error-text{
+    color: red;
+    margin-left: 20%;
+}
+.sub-btn{
+    width: 313px;
+}
